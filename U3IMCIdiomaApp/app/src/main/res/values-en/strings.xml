@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3BMIApp</string>
+    <string name="titulo_app">Body Mass Index</string>
+    <string name="peso">Weight(kg):</string>
+    <string name="estatura">Height(m):</string>
+    <string name="btn_calcular">Calculate BMI</string>
+    <string name="btn_acerca_de">About...</string>
+    <string name="instituto">Technological Institute of La Laguna</string>
+    <string name="appname_ver">U3BMIApp  V1.0</string>
+    <string name="fecha_creacion">September 2023</string>
+    <string name="btn_atras">GO BACK</string>
+    <string name="salud_es">, your health condition is:</string>
+    <string name="imc_es">BMI=</string>
+    <string name="alert_title">BMIApp</string>
+    <string name="delgadez_muy_severa">Very Severe Thinness</string>
+    <string name="delgadez_severa">Severe thinness</string>
+    <string name="delgadez">Thinness</string>
+    <string name="peso_saludable">" Healthy Weight"</string>
+    <string name="sobrepeso">Overweight</string>
+    <string name="obesidad_severa">" Severe Obesity"</string>
+    <string name="obesidad_morbida">" Very Severe Obesity (Morbid Obesity)"</string>
+    <string name="obesidad_moderada">Moderate Obesity</string>
+    <string name="aceptar">Accept</string>
+</resources>
